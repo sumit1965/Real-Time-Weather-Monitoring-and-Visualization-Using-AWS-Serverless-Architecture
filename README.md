@@ -1,4 +1,4 @@
-# Real-Time-Weather-Monitoring-and-Visualization-Using-AWS-Serverless-Architecture
+
 # 🌦️ Real-Time Weather Monitoring and Visualization Using AWS Serverless Architecture
 
 ## 📌 Project Overview
